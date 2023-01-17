@@ -1,2 +1,3 @@
-# LeitoresEscritores
+# Leitores e Escritores
 
+Programa desenvolvido na faculdade na matéria e Sistema Operacional, com o intuído de demonstrar uma forma de resolver o problema em sistemas concorrentes onde diversos threads querem acessar ao mesmo tempo o espaço de memória, podendo deixar alguma threads sofrer inanição. Desta forma esse programa demonstra forma de resolver este problema fazendo com que o thread escritor seja prioridade.
